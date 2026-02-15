@@ -1,5 +1,9 @@
 # API Wallet Backend - Credit Card Batch Processor
 
+- 👨‍💻 Developped by Saynarah Cruz Nabuco
+- 📧 [saynarah.nabuco@gmail.com]
+- 📅 02/12/2026
+
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green.svg)](https://spring.io/projects/spring-boot)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-Swagger-yellow.svg)](https://springdoc.org/)
@@ -231,15 +235,8 @@ Response 201 Created:
 
 ### **1. Swagger UI**
 
-![Swagger Documentation](git_swagger_openapi.gif)
-
+![Swagger Documentation](screenshots/git_swagger_openapi.gif)
 ### **3. Audit Logs**
 
-![Audit APIs Logs](image.png)
-
-
-
-- 👨‍💻 Developped by Saynarah Cruz Nabuco
-- 📧 [saynarah.nabuco@gmail.com]
-- 📅 02/12/2026
+![Audit APIs Logs](screenshots/image.png)
 
